@@ -37,7 +37,6 @@ I'm a information systems student looking to learn more about web development us
 </br>
 <h3> 📊 Currently doing: </h3>
 
-- 🚀 Following the Next Level Week 4
 - 📂 Finishing some portfolio projects
 
 </br>
