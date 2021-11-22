@@ -4,9 +4,9 @@ I'm a information systems student looking to learn more about web development us
 
 <h3> 👨🏻‍ About me: </h3>
 
-- 💼 I’m currently working as an intern at FINEP
+- 💼 I’m currently working as an Junior Developer at Sensedia
 - 🎓 Studying Information Systems at Federal Fluminense University (UFF)
-- 📖 I'm currently learning more about NodeJS and React
+- 📖 I'm currently learning more about Go
 - 🎮 Fun fact: Learned about game development during high school
 
 </br>
