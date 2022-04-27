@@ -1,6 +1,6 @@
 ### Hey, What’s up? I'm Gabriel Figueiredo 👋
 
-I'm a information systems student looking to learn more about web development using Node.js, React and React Native. 😎
+I'm a information systems student looking to learn more about web development. 😎
 
 <h3> 👨🏻‍ About me: </h3>
 
@@ -15,6 +15,7 @@ I'm a information systems student looking to learn more about web development us
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=007ACC)
+  ![Go](https://img.shields.io/badge/-GoLang-333333?style=flat&logo=Go)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -28,7 +29,8 @@ I'm a information systems student looking to learn more about web development us
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Kubernetes](https://img.shields.io/badge/-K8s-333333?style=flat&logo=kubernetes)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=814cb5)
@@ -37,7 +39,8 @@ I'm a information systems student looking to learn more about web development us
 </br>
 <h3> 📊 Currently doing: </h3>
 
-- 📂 Finishing some portfolio projects
+- Finishing some portfolio projects 📂
+- Learning more to become ready to **Go!** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>
 
 </br>
 <h3> ⌚ Github Stats: </h3>
