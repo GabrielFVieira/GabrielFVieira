@@ -4,7 +4,7 @@ I'm a information systems student looking to learn more about web development. �
 
 <h3> 👨🏻‍ About me: </h3>
 
-- 💼 I’m currently working as an Junior Developer at Sensedia
+- 💼 I’m currently working as an Backend Developer at Sensedia
 - 🎓 Studying Information Systems at Federal Fluminense University (UFF)
 - 📖 I'm currently learning more about Go
 - 🎮 Fun fact: Learned about game development during high school
